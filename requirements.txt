@@ -8,7 +8,6 @@ django-allauth
 django-ckeditor
 django-js-asset
 django-multiselectfield
-gunicorn
 idna
 oauthlib
 Pillow
