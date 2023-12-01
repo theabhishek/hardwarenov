@@ -28,8 +28,8 @@ SECRET_KEY = 'django-insecure-8kir3ie!rtu7s7xq3re=auy)q99cspt_uh!^%dakia0+1e03+g
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['*', 'web-production-3e2b.up.railway.app', 'localhost', '127.0.0.1','https://www.hardwaredepot.in','https://hardwaredepot.in', 'web-production-8dc1e.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['web-production-3e2b.up.railway.app', 'localhost', '127.0.0.1','https://hardwaredepot.in','https://*.hardwaredepot.in', 'web-production-8dc1e.up.railway.app']
+ALLOWED_HOSTS = ['web-production-6e2e.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['web-production-6e2e.up.railway.app']
 # Application definition
 
 INSTALLED_APPS = [
